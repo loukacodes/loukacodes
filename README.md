@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Trang Tran
 
-You can use the [editor on GitHub](https://github.com/trangtmtran/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Software developer based in Helsinki, Finland
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:ttminhtrang09@gmail.com) / [LinkedIn](https://www.linkedin.com/in/trang-tran0909/) / [GitHub](https://github.com/trangtmtran/)
 
-### Markdown
+## Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Software developer @ **RELEX Solutions** _(July 2019 - Present)_
 
-```markdown
-Syntax highlighted code block
+- Continue working on the same web applications as in Zenopt Oy.
+- Work in an agile team which is responsible for multiple sub-systems
 
-# Header 1
-## Header 2
-### Header 3
+**Technologies used**: JavaScript, TypeScript, ReactJs, Redux, NodeJs, Elixir, PostgreSQL, UI / UX Design
 
-- Bulleted
-- List
+Software Engineer @ **Zenopt Oy** _(Nov 2018 - July 2019)_
 
-1. Numbered
-2. List
+- Design, implement and solve business logic problems for web applications which are used on mobile (app for employees) and desktop (app for managers).
+- Work as a team and independently. Collaborate between UX team and dev team.
+- Familiar with modern software development process.
 
-**Bold** and _Italic_ and `Code` text
+**Technologies used**: JavaScript, TypeScript, ReactJs, Redux, NodeJs, Elixir, PostgreSQL, UI / UX Design
 
-[Link](url) and ![Image](src)
-```
+Frontend Developer @ **Roger Studio**** _(Nov 2017 - Nov 2018)_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Build web applications / websites using Lightning Components and Visualforce framework powered by Salesforce
+- Work closely with Digital Marketing and UI/UX design team
 
-### Jekyll Themes
+**Projects**: Valmet Customer Portal, Helsinki Yliopisto donation webpage
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trangtmtran/digital-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Education
 
-### Support or Contact
+**Full Stack Web Development Certification** in Computer Software Engineering
+at _Free Code Camp_
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Developing modern web platforms** in Open University of Applied Sciences, Information and Communication Technology
+at _Helsinki Metropolia University of Applied Sciences_ (2016 - 2017)
+
+**Bachelor of Applied Science - BASc, Engineering** in Automation Engineering
+at _HAMK HÄme University of Applied Sciences_ (2013 - 2017)
