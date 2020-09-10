@@ -33,7 +33,7 @@ Frontend Developer @ **Roger Studio**** _(Nov 2017 - Nov 2018)_
 **Full Stack Web Development Certification** in Computer Software Engineering
 at _Free Code Camp_
 
-**Developing modern web platforms** in Open University of Applied Sciences, Information and Communication Technology
+**Developing modern web platforms course** in Open University of Applied Sciences, Information and Communication Technology
 at _Helsinki Metropolia University of Applied Sciences_ (2016 - 2017)
 
 **Bachelor of Applied Science - BASc, Engineering** in Automation Engineering
