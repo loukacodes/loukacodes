@@ -21,7 +21,7 @@ Software Engineer @ **Zenopt Oy** _(Nov 2018 - July 2019)_
 
 **Technologies used**: JavaScript, TypeScript, ReactJs, Redux, NodeJs, Elixir, PostgreSQL, UI / UX Design
 
-Frontend Developer @ **Roger Studio**** _(Nov 2017 - Nov 2018)_
+Frontend Developer @ **Roger Studio** _(Nov 2017 - Nov 2018)_
 
 - Build web applications / websites using Lightning Components and Visualforce framework powered by Salesforce
 - Work closely with Digital Marketing and UI/UX design team
