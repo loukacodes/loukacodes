@@ -1,6 +1,6 @@
 # Trang Tran
 
-_Software developer based in Helsinki, Finland
+_Software developer based in Helsinki, Finland_
 
 [Email](mailto:ttminhtrang09@gmail.com) / [LinkedIn](https://www.linkedin.com/in/trang-tran0909/) / [GitHub](https://github.com/trangtmtran/)
 
