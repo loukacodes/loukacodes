@@ -6,7 +6,7 @@ _Software developer based in Helsinki, Finland_
 
 ## Technical Experience
 
-Software developer @ **RELEX Solutions** _(July 2019 - Present)_
+### Software developer @ **RELEX Solutions** _(July 2019 - Present)_
 
 - Continue working on the same web applications as in Zenopt Oy
 - Work in an agile team which is responsible for multiple sub-systems
@@ -15,7 +15,7 @@ Software developer @ **RELEX Solutions** _(July 2019 - Present)_
 
 **Technologies used**: JavaScript, TypeScript, ReactJs, Redux, NodeJs, Elixir, PostgreSQL, UI / UX Design, Jest
 
-Software Engineer @ **Zenopt Oy** _(Nov 2018 - July 2019)_
+### Software Engineer @ **Zenopt Oy** _(Nov 2018 - July 2019)_
 
 - Design, implement and solve business logic problems for web applications which are used on mobile (app for employees) and desktop (app for managers).
 - Work as a team and independently. Collaborate between UX team and dev team.
@@ -23,7 +23,7 @@ Software Engineer @ **Zenopt Oy** _(Nov 2018 - July 2019)_
 
 **Technologies used**: JavaScript, TypeScript, ReactJs, Redux, NodeJs, Elixir, PostgreSQL, UI / UX Design
 
-Frontend Developer @ **Roger Studio** _(Nov 2017 - Nov 2018)_
+### Frontend Developer @ **Roger Studio** _(Nov 2017 - Nov 2018)_
 
 - Build web applications / websites using Lightning Components and Visualforce framework powered by Salesforce
 - Work closely with Digital Marketing and UI/UX design team
