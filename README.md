@@ -8,10 +8,12 @@ _Software developer based in Helsinki, Finland_
 
 Software developer @ **RELEX Solutions** _(July 2019 - Present)_
 
-- Continue working on the same web applications as in Zenopt Oy.
+- Continue working on the same web applications as in Zenopt Oy
 - Work in an agile team which is responsible for multiple sub-systems
+- Focus on applications which are mostly used on mobile
+- Write test to ensure quality
 
-**Technologies used**: JavaScript, TypeScript, ReactJs, Redux, NodeJs, Elixir, PostgreSQL, UI / UX Design
+**Technologies used**: JavaScript, TypeScript, ReactJs, Redux, NodeJs, Elixir, PostgreSQL, UI / UX Design, Jest
 
 Software Engineer @ **Zenopt Oy** _(Nov 2018 - July 2019)_
 
