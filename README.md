@@ -1,4 +1,4 @@
-# Trang Tran
+# Louka Tran
 
 _Software developer based in Helsinki, Finland_
 
