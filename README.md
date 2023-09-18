@@ -48,12 +48,10 @@ _Software developer based in Helsinki, Finland_
 ## Education
 
 **Funtional Programming I (Haskell)** 
-at _University of Helsinki_
-Grade: 5/5
+at _University of Helsinki_ | Grade: 5/5
 
 **Software Engineering course** 
-at _Aalto University_
-Grade: 5/5
+at _Aalto University_ | Grade: 5/5
 
 **Full Stack Web Development Certification** in Computer Software Engineering
 at _Free Code Camp_
